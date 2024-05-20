@@ -533,5 +533,36 @@
       }
     ],
     "preset": true
+  },
+    {
+    "id": "czkc",
+    "symbol": "CZKC",
+    "name": "CZKC",
+    "image": "/logos/assets/czkc.png",
+    "is_xERC20": true,
+    "is_stablecoin": true,
+    "contracts": [
+      {
+        "contract_address": "0x07a2a7CCffD19e114c5309A90F63a43189cC3671",
+        "chain_id": 11155111,
+        "decimals": 6,
+        "symbol": "CZKC",
+        "xERC20": "0x07a2a7CCffD19e114c5309A90F63a43189cC3671",
+        "permit_supported": true
+      },
+      {
+        "contract_address": "0x07a2a7CCffD19e114c5309A90F63a43189cC3671",
+        "chain_id": 421614,
+        "decimals": 6,
+        "symbol": "CZKC"
+      },
+      {
+        "contract_address": "0x07a2a7CCffD19e114c5309A90F63a43189cC3671",
+        "chain_id": 10200,
+        "decimals": 6,
+        "symbol": "CZKC"
+      }
+    ],
+    "color": "#00007f"
   }
 ]
